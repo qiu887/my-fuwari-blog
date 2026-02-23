@@ -1,0 +1,1 @@
+import"./zh_TW.EWYoPUR2.js";function i(o,n){const r=o.replace(/^\/|\/$/g,"").toLowerCase(),t=n.replace(/^\/|\/$/g,"").toLowerCase();return r===t}function e(...o){return o.join("/").replace(/\/+/g,"/")}function s(o){return a(`/posts/${o}/`)}function a(o){return e("","/my-fuwari-blog/",o)}export{s as g,i as p,a as u};
